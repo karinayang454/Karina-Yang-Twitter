@@ -1,10 +1,10 @@
 # Twitter-Sentiment-Analysis
-Natural Language Processing (NLP) was applied to conduct Sentiment Analysis on tweets, classifying positive/negative emotion through text mining, text analysis, data analysis and data visualization
+Natural Language Processing (NLP) was applied to conduct Sentiment Analysis on tweets, classifying positive/negative emotion through text mining, text analysis, data analysis and data visualization.
 
 
-# The Problem Statement
+# Problem Statement
 
-The objective of this task is to detect positive vs. negative emotion in tweets, where label ‘4’ denotes positive emotion and label ‘0’ denotes negative emotion
+The objective of this task is to detect positive vs. negative emotion in tweets, where label ‘4’ denotes positive emotion and label ‘0’ denotes negative emotion.
 
 # Tweets Preprocessing and Cleaning
 
